@@ -1,0 +1,14 @@
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/bin/Debug/net10.0/Assignment
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/bin/Debug/net10.0/Assignment.deps.json
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/bin/Debug/net10.0/Assignment.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/bin/Debug/net10.0/Assignment.dll
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/bin/Debug/net10.0/Assignment.pdb
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.dll
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/refint/Assignment.dll
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.pdb
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/Assignment.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/Assignment/Assignment/obj/Debug/net10.0/ref/Assignment.dll
