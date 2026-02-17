@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/bin/Debug/net10.0/Assignment5
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/bin/Debug/net10.0/Assignment5.deps.json
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/bin/Debug/net10.0/Assignment5.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/bin/Debug/net10.0/Assignment5.dll
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/bin/Debug/net10.0/Assignment5.pdb
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.sourcelink.json
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.dll
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/refint/Assignment5.dll
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.pdb
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/Assignment5.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/Assignment5/Assignment5/obj/Debug/net10.0/ref/Assignment5.dll
