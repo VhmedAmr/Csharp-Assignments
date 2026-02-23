@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/bin/Debug/net10.0/OOP2
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/bin/Debug/net10.0/OOP2.deps.json
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/bin/Debug/net10.0/OOP2.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/bin/Debug/net10.0/OOP2.dll
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/bin/Debug/net10.0/OOP2.pdb
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.sourcelink.json
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.dll
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/refint/OOP2.dll
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.pdb
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/OOP2.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/OOP2/OOP2/obj/Debug/net10.0/ref/OOP2.dll
