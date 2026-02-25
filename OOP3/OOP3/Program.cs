@@ -74,4 +74,30 @@ class Program
         Console.WriteLine($"Group Discount (5 tickets * 80 EGP): {groupDiscount}");
 
     }
+
+    #region Part1
+
+    #region Q1
+
+        // A) composition
+        // B) Association
+        // C) Inheritance
+        // D) Aggregation
+        // E) Dependency
+
+    #endregion
+    
+    #region Q2
+    
+     // A) yes it can be accessed out from the assembly, no it needs to be inherited.
+     // B) Protected internal without inheritance can be accessed inside the assembly only
+     //                       With inheritance can be accessed normally in a derived class in another assembly
+     //    Private protected without inheritance can be accessed inside same class only
+     //                      With inheritance inside the same class or derived class in the same assembly
+     // C) Makes the class cant be inherited, makes the method cant be overridden
+     // D) Yes, sealed affect only the inheritance not the object intialization.
+    
+    #endregion
+
+    #endregion
 }
