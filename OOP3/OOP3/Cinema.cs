@@ -2,7 +2,9 @@ namespace OOP3;
 
 public class Cinema
 {
+    public string cinemaName { get; set; }
     private Ticket[] _tickets = new Ticket[20];
+    private Projector _projector;
 
     public Ticket? this[int index]
     {
@@ -24,18 +26,12 @@ public class Cinema
         }
     }
 
-    public Ticket? GetTicketMovieName(string movieName)
+    public Cinema(string name)
     {
-        foreach (var ticket in _tickets)
-        {
-            if (ticket != null && movieName == ticket.MovieName)
-            {
-                return ticket;
-            }
-        }
-        return null;
+        cinemaName = name;
+        _projector = new Projector();
     }
-
+    
     public bool AddTicket(Ticket ticket)
     {
         for (int i = 0; i < _tickets.Length; i++)
@@ -47,6 +43,30 @@ public class Cinema
             }
         }
         return false;
+    }
+
+    public void PrintAllTickets()
+    {
+        Console.WriteLine("==== All Tickets: ====");
+        foreach (var ticket in _tickets)
+        {
+            if (ticket != null)
+            {
+                Console.WriteLine(ticket); 
+            }
+        }
+        
+    }
+
+    public void OpenCinema()
+    {
+        Console.WriteLine("==== Cinema Opened ====");
+        _projector.ProjectorStart();
+    }
+    public void CloseCinema()
+    {
+        Console.WriteLine("==== Cinema Closed ====");
+        _projector.ProjectorStop();
     }
 
 }
