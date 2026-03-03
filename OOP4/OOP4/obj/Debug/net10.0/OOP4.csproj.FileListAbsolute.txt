@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/bin/Debug/net10.0/OOP4
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/bin/Debug/net10.0/OOP4.deps.json
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/bin/Debug/net10.0/OOP4.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/bin/Debug/net10.0/OOP4.dll
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/bin/Debug/net10.0/OOP4.pdb
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.sourcelink.json
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.dll
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/refint/OOP4.dll
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.pdb
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/OOP4.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/OOP4/OOP4/obj/Debug/net10.0/ref/OOP4.dll
