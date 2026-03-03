@@ -77,18 +77,18 @@ public class Ticket
 
     public override string ToString()
     {
-       return $"Ticket {TicketId} | {MovieName} | Price: {Price} | After Tax: {PriceAfterTax}";
+       return $"Ticket #{TicketId} | {MovieName} | Price: {Price} EGP | After Tax: {PriceAfterTax:F2} EGP";
     }
     
 
-    public static int GetTotalTicketsSold()
+    public static int GetTotalTickets()
     {
         return _ticketCounter;
     }
 
     public virtual void PrintTicket()
     {
-        Console.Write($"Ticket {TicketId} | {MovieName} | Price: {Price} | After Tax: {PriceAfterTax}");
+        Console.Write($"Ticket #{TicketId} | {MovieName} | Price: {Price} EGP | After Tax: {PriceAfterTax:F2} EGP");
     }
 
     public void SetPrice(decimal price)
