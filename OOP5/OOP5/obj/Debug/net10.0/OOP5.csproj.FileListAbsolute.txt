@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/bin/Debug/net10.0/OOP5
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/bin/Debug/net10.0/OOP5.deps.json
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/bin/Debug/net10.0/OOP5.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/bin/Debug/net10.0/OOP5.dll
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/bin/Debug/net10.0/OOP5.pdb
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.sourcelink.json
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.dll
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/refint/OOP5.dll
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.pdb
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/OOP5.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/OOP5/OOP5/obj/Debug/net10.0/ref/OOP5.dll
