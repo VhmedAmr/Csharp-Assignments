@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/bin/Debug/net10.0/OOP6
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/bin/Debug/net10.0/OOP6.deps.json
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/bin/Debug/net10.0/OOP6.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/bin/Debug/net10.0/OOP6.dll
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/bin/Debug/net10.0/OOP6.pdb
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.sourcelink.json
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.dll
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/refint/OOP6.dll
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.pdb
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/OOP6.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/OOP6/OOP6/obj/Debug/net10.0/ref/OOP6.dll
