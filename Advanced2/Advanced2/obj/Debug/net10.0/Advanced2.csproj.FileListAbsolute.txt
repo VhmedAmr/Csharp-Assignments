@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/bin/Debug/net10.0/Advanced2
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/bin/Debug/net10.0/Advanced2.deps.json
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/bin/Debug/net10.0/Advanced2.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/bin/Debug/net10.0/Advanced2.dll
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/bin/Debug/net10.0/Advanced2.pdb
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.sourcelink.json
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.dll
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/refint/Advanced2.dll
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.pdb
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/Advanced2.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/Advanced2/Advanced2/obj/Debug/net10.0/ref/Advanced2.dll
