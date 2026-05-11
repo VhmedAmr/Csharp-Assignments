@@ -1,0 +1,15 @@
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/bin/Debug/net10.0/Advanced3
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/bin/Debug/net10.0/Advanced3.deps.json
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/bin/Debug/net10.0/Advanced3.runtimeconfig.json
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/bin/Debug/net10.0/Advanced3.dll
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/bin/Debug/net10.0/Advanced3.pdb
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.AssemblyInfoInputs.cache
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.AssemblyInfo.cs
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.csproj.CoreCompileInputs.cache
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.sourcelink.json
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.dll
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/refint/Advanced3.dll
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.pdb
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/Advanced3.genruntimeconfig.cache
+/Users/vhmedamr/Documents/csharp/Advanced3/Advanced3/obj/Debug/net10.0/ref/Advanced3.dll
